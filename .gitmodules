@@ -7,3 +7,6 @@
 [submodule "qemu-server"]
 	path = qemu-server
 	url = https://github.com/bins-dev/qemu-server.git
+[submodule "qemu-web"]
+	path = qemu-web
+	url = https://github.com/bins-dev/qemu-web.git
