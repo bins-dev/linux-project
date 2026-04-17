@@ -34,3 +34,6 @@
 [submodule "pve-network"]
 	path = pve-network
 	url = https://github.com/bins-dev/pve-network.git
+[submodule "pve-ha-manager"]
+	path = pve-ha-manager
+	url = https://github.com/bins-dev/pve-ha-manager.git
