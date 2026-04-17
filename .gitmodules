@@ -25,3 +25,6 @@
 [submodule "pve-storage"]
 	path = pve-storage
 	url = https://github.com/bins-dev/pve-storage.git
+[submodule "proxmox-perl-rs"]
+	path = proxmox-perl-rs
+	url = https://github.com/bins-dev/proxmox-perl-rs.git
