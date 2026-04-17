@@ -19,3 +19,6 @@
 [submodule "pve-common"]
 	path = pve-common
 	url = https://github.com/bins-dev/pve-common.git
+[submodule "pve-manager"]
+	path = pve-manager
+	url = https://github.com/bins-dev/pve-manager.git
