@@ -13,3 +13,6 @@
 [submodule "proxmox-datacenter-manager"]
 	path = proxmox-datacenter-manager
 	url = https://github.com/bins-dev/proxmox-datacenter-manager.git
+[submodule "pve-kernel"]
+	path = pve-kernel
+	url = https://github.com/bins-dev/pve-kernel.git
