@@ -31,3 +31,6 @@
 [submodule "pve-installer"]
 	path = pve-installer
 	url = https://github.com/bins-dev/pve-installer.git
+[submodule "pve-network"]
+	path = pve-network
+	url = https://github.com/bins-dev/pve-network.git
