@@ -28,3 +28,6 @@
 [submodule "proxmox-perl-rs"]
 	path = proxmox-perl-rs
 	url = https://github.com/bins-dev/proxmox-perl-rs.git
+[submodule "pve-installer"]
+	path = pve-installer
+	url = https://github.com/bins-dev/pve-installer.git
