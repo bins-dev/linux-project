@@ -10,3 +10,6 @@
 [submodule "qemu-web"]
 	path = qemu-web
 	url = https://github.com/bins-dev/qemu-web.git
+[submodule "proxmox-datacenter-manager"]
+	path = proxmox-datacenter-manager
+	url = https://github.com/bins-dev/proxmox-datacenter-manager.git
