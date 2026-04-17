@@ -16,3 +16,6 @@
 [submodule "pve-kernel"]
 	path = pve-kernel
 	url = https://github.com/bins-dev/pve-kernel.git
+[submodule "pve-common"]
+	path = pve-common
+	url = https://github.com/bins-dev/pve-common.git
