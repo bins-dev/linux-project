@@ -22,3 +22,6 @@
 [submodule "pve-manager"]
 	path = pve-manager
 	url = https://github.com/bins-dev/pve-manager.git
+[submodule "pve-storage"]
+	path = pve-storage
+	url = https://github.com/bins-dev/pve-storage.git
